@@ -1,0 +1,24 @@
+.seccion { 
+    background: transparent;
+    grid-area: contenedor-seccion;
+    width: 100%;
+    
+    
+}
+
+.vista{
+    width: 100%;
+    height: 100%;
+    position: relative;    
+}
+  
+.galeria-imagenes{
+    display: grid;
+    justify-items: center;
+    grid-template-rows: repeat(3, 1fr);
+    grid-template-columns: repeat(3, 1fr);
+    gap: 8px; 
+
+}
+  
+  
