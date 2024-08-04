@@ -5,7 +5,7 @@ export const listaEnlaces = [
 ]
 
 export const imagenFondo =[{
-    ruta: '../imagenes/imagenes-targetas/tarjeta-acabados-fernandez.webp',
+    ruta: 'acabados-fernandez/imagenes/imagenes-targetas/tarjeta-acabados-fernandez.webp',
     alt: 'Imagen tarjeta presentacion',
     clase: 'imagen-fondo'
 }]
